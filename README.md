@@ -1,5 +1,5 @@
 # hushMsg
-## A messaging application that uses encrypted software to send a secret message to a reciever
+## A messaging application
 
 ## Technologies Used
 
