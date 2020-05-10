@@ -9,6 +9,6 @@
 4. Materialize Framework 
 
 #### Demo Link
-hush-msg-andrewlopezcodes.now.sh
+https://hush-msg-andrewlopezcodes.now.sh
 
 <!-- written by @andrewlopezcodes on Github and Instagram -->
